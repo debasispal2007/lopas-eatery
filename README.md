@@ -48,4 +48,4 @@ You can download the latest **APK** for Android devices from the [Releases](http
 The app follows a "Heritage Atelier" philosophy—blending the rustic charm of traditional Bengali kitchens with the sleek minimalism of a high-end fashion atelier. Every interaction is designed to feel intentional, warm, and premium.
 
 ---
-Created with ❤️ by [Your Name]
+Created with ❤️ by [Debasis Pal]
